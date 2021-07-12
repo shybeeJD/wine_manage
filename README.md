@@ -6,7 +6,7 @@
 
 ## 表
 ### 用户表
-```json
+```
 // An highlighted block
 Users:{
 	"id":1, //int, N
@@ -17,7 +17,7 @@ Users:{
 }
 ```
 ### 地址表
-```json
+```
 // An highlighted block
 Address:{
 	"id":1,//int, N
@@ -33,7 +33,7 @@ Address:{
 
 
 ### 商品表
-```json
+```
 // An highlighted block
 Goods:{
 	"id":2, //int, N, 商品id
@@ -52,7 +52,7 @@ Goods:{
 }
 ```
 ### 配送表
-```json
+```
 // An highlighted block
 DeliveryMan:{
 	"id":1, //int, N
@@ -62,7 +62,7 @@ DeliveryMan:{
 }
 ```
 ### 仓库表
-```json
+```
 // An highlighted block
 
 //暂时不重要
@@ -77,7 +77,7 @@ Warehouse:{
 ```
 
 ### 订单表
-```json
+```
 // An highlighted block
 
 Order:{
@@ -110,10 +110,5 @@ Order:{
 	1:在线支付
 	2:线下支付
 }
-```
-去[博客设置](https://mp.csdn.net/console/configBlog)页面，选择一款你喜欢的代码片高亮样式，下面展示同样高亮的 `代码片`.
-```javascript
-// An highlighted block
-var foo = 'bar';
 ```
 
